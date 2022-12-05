@@ -1,0 +1,33 @@
+
+.DogList h1{
+  cursor: default;
+  text-align: center;
+  margin: 60px;
+  text-decoration: underline;
+  font-size: 3em;
+}
+
+.DogList-dog{
+  cursor: pointer;
+  background-color: #74CBC1;
+  position: relative;
+  display: inline-block;
+  width: 30%;
+  height: 25em;
+  border-radius: 15px;
+  margin: 10px;
+}
+
+.DogList-dog h2{
+  position: relative;
+  left: 5%;
+  text-align: center;
+  width: 90%;
+}
+
+.DogList-dog img{
+  position: relative;
+  width: 90%;
+  left: 5%;
+  border-radius: 10px;
+}
